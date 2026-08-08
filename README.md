@@ -12,7 +12,7 @@ A modern, responsive React application demonstrating clean global state manageme
 
 ## 🎥 Video Walkthrough
 
-[![Watch Demo Video](https://github.com/misbahj133/React-Context-API/issues/1#issue-5097906277)]
+![Watch Demo Video](https://github.com/misbahj133/React-Context-API/issues/1#issue-5097906277)
 
 ---
 
