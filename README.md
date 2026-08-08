@@ -1,6 +1,5 @@
 Here is the complete **`README.md`** file tailored specifically to your Task 2 implementation, including your video walkthrough section, tech stack, project structure, and feature overview.
 
-[file-tag: code-generated-file-0-1786198875288738916]
 
 ### Markdown Preview:
 
@@ -13,9 +12,7 @@ A modern, responsive React application demonstrating clean global state manageme
 
 ## 🎥 Video Walkthrough
 
-Watch the complete demonstration of the application in action, featuring live state updates, loading states, and empty state handling:
-
-[![Watch Demo Video](https://github.com/user-attachments/assets/a584983a-3646-4ad9-aac4-087739c1c6e0)]
+[![Watch Demo Video]()]
 
 ---
 
