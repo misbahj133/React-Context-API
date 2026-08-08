@@ -4,7 +4,7 @@ Here is the complete **`README.md`** file tailored specifically to your Task 2 i
 ### Markdown Preview:
 
 ```markdown
-# 📦 Global State Management & Enhanced UI/UX (Task 2)
+# 📦 Global State Management & Enhanced UI/UX 
 
 A modern, responsive React application demonstrating clean global state management using the **React Context API** and `useReducer`. Built with **Vite** and **React**, this project refactors component architecture to eliminate prop-drilling while implementing production-ready UX feedback patterns including **skeleton loaders** and **empty states**.
 
@@ -12,7 +12,7 @@ A modern, responsive React application demonstrating clean global state manageme
 
 ## 🎥 Video Walkthrough
 
-[![Watch Demo Video]()]
+[![Watch Demo Video](https://github.com/misbahj133/React-Context-API/issues/1#issue-5097906277)]
 
 ---
 
